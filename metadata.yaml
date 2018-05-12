@@ -1,10 +1,16 @@
 _repo: Amadis-of-Gaul-Vol-II-of-IV_51099
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 51099-h/images/cover.jpg
 creator:
   author:
     agent_name: Lobeira, Vasco
     gutenberg_agent_id: '46241'
     url: http://www.gutenberg.org/2009/agents/46241
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51099#Amadis-of-Gaul-Vol-II-of-IV
 gutenberg_issued: '2016-02-01'
 gutenberg_type: Text
 identifiers:
