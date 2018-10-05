@@ -19,5 +19,7 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: Amadís of Gaul, Vol. II. of IV.
 url: http://www.gutenberg.org/ebooks/51099
